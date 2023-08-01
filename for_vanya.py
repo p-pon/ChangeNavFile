@@ -1,7 +1,6 @@
 import datetime
-import os
 import glob
-
+import os
 
 directory = r"C:\Users\pavel.ponimaskin\PycharmProjects\for sasha\01_UTM"
 path_navFiles = r'C:\Users\pavel.ponimaskin\PycharmProjects\for sasha\nav'
